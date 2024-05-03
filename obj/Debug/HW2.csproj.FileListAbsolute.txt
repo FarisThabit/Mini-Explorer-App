@@ -1,0 +1,10 @@
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW2 - Coding\HW2\obj\Debug\HW2.csproj.AssemblyReference.cache
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW2 - Coding\HW2\obj\Debug\HW2.Properties.Resources.resources
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW2 - Coding\HW2\obj\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW2 - Coding\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW2 - Coding\HW2\bin\Debug\HW2.exe.config
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW2 - Coding\HW2\bin\Debug\HW2.exe
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW2 - Coding\HW2\bin\Debug\HW2.pdb
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW2 - Coding\HW2\obj\Debug\HW2.exe
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW2 - Coding\HW2\obj\Debug\HW2.pdb
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW2 - Coding\HW2\obj\Debug\HW2.Form1.resources
